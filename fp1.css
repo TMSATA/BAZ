@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(DDS.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+background-color: hwb(41 29% 5%);   
+}
+.a{
+    border: none;
+    display: block;     
+    margin: auto;
+    outline: 2px solid none;
+  padding: 25px;
+
+  margin-top: 250px;
+    background-color: #ff9900;
+    ;
+    color: #fff;
+font-size: 15px;
+}
+    .c{
+        border: none;
+        display: block;     
+        margin: auto;
+        outline: 2px solid none;
+      padding: 25px;
+      padding-left:40PX;
+      padding-right: 40px;
+    margin-top: 4px;
+   
+        background-color: #ff9900;
+        color: #fff;
+    font-size: 20px;
+    }
+  a{
+    text-decoration: none; 
+
+  }
